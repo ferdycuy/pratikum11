@@ -27,7 +27,7 @@
 
 ##### Contoh
 
-- Contoh-conroh berikut ini membuka file, menulis konten file, dan keluar dengan aman karena ada tidak masalah
+- Contoh-contoh berikut ini membuka file, menulis konten file, dan keluar dengan aman karena ada tidak masalah
 
 ![2](https://user-images.githubusercontent.com/115714443/208671126-c244af12-ef97-4122-aaee-1c5f3567f475.png)
 
