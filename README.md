@@ -80,5 +80,4 @@ Pengecualian dapat berupa string, kelas, atau objek. Sebagian besar pengecualian
 - Di blok coba, pengecualian yang ditentukan pengguna dimunculkan dan ditangkap di blok kecuali. Itu variabel e digunakan untuk membuat instance dari kelas Networkerror.
 
 ![8](https://user-images.githubusercontent.com/115714443/208675196-a61d9151-e3b3-4b3b-ae98-d1654f45bbd9.png)
-
-*### TERIMAKASI ###*
+### TERIMAKASI ###
