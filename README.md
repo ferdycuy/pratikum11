@@ -1,5 +1,9 @@
 # Tugas Pertemuan 13
 
+#### Nama  : Ferdyana Eka Prasetya
+#### NIM   : 312210121
+#### Kelas : TI.22.A.1
+
 ### Exception Handling
 - Exception merupakan kesalahan (error) yang terjadi saat proses eksekusi program sedang berjalan,
   Kesalahan menyebabkan program berakhir dengan tidak normal.
